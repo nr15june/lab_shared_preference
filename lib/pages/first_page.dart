@@ -61,7 +61,7 @@ class _FirstPageState extends State<FirstPage> {
                   padding: EdgeInsets.symmetric(horizontal: 30, vertical: 15),
                   child: Text(
                     'ยืนยัน',
-                    style: TextStyle(fontSize: 18),
+                    style: TextStyle(fontSize: 18, color: Colors.white),
                   ),
                 ),
               ),
